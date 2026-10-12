@@ -1,16 +1,15 @@
-## Hi there 👋
+## Charmaine Chee
 
-<!--
-**charmsie0920/charmsie0920** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend engineer, final-year Computer Science at Monash University (graduating Nov 2026).
+Relocating to Germany from December 2026.
 
-Here are some ideas to get you started:
+**Working with:** C# / .NET 8, TypeScript, Node.js, Python, PostgreSQL, Docker, Terraform, AWS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Currently building**
+- [aero-telemetry-engine](https://github.com/charmsie0920/aero-telemetry-engine) — fault-tolerant flight telemetry pipeline (.NET, PostgreSQL, Terraform, AWS)
+- [GNN-MultiOmics](https://github.com/charmsie0920/GNN-MultiOmics) — graph neural network for cancer drug response prediction (tech lead, team of 4)
+
+
+**Recently** — contributed to a .NET Framework 4 → .NET 8 migration of a customer portal serving 11M+ users (Strateq / Tenaga Nasional Berhad).
+
+[LinkedIn](https://www.linkedin.com/in/charmaine-chee-52b889318/) · charmainechee0920@gmail.com
