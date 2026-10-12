@@ -1,7 +1,6 @@
 ## Charmaine Chee
 
 Backend engineer, final-year Computer Science at Monash University (graduating Nov 2026).
-Relocating to Germany from December 2026.
 
 **Working with:** C# / .NET 8, TypeScript, Node.js, Python, PostgreSQL, Docker, Terraform, AWS
 
